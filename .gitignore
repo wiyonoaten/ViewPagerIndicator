@@ -13,7 +13,6 @@ gen
 classes
 
 #Maven
-target
 release.properties
 pom.xml.*
 
