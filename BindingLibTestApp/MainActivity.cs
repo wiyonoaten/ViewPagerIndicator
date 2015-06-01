@@ -8,7 +8,7 @@ using ViewPagerIndicator;
 
 namespace BindingLibTestApp
 {
-	[Activity(Label = "BindingLibTestApp", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity(Label = "ViewPagerIndicatorBindingLibTestApp", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : FragmentActivity
 	{
 		private static readonly Random RANDOM = new Random();
